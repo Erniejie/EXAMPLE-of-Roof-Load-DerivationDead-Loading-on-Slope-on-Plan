@@ -1,0 +1,2 @@
+# EXAMPLE-of-Roof-Load-DerivationDead-Loading-on-Slope-on-Plan
+DEAD LOADS MEASURED ON THE SLOPE LENGTHS - UK PITCHED ROOFS
